@@ -22,6 +22,9 @@ outputs/*
 __pycache__/
 *.py[cod]
 
+# Local maintenance scripts
+tools/prepare_public_notebooks.py
+
 # Local environment files
 .env
 .venv/
