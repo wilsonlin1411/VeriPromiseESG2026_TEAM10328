@@ -1,7 +1,5 @@
 # Outputs Directory
 
-此資料夾只保留輸出說明；模型 checkpoint、中間機率檔、submission 與診斷報告不應提交到公開 GitHub。
-
 Notebooks 會將輸出寫入 Google Drive：
 
 ```text
