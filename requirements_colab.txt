@@ -1,0 +1,10 @@
+# Colab-first dependency ranges.
+# Notebooks install these packages in their first setup cell.
+accelerate>=0.33,<1.0
+numpy>=1.26,<3
+openpyxl>=3.1,<4
+pandas>=2.2,<3
+scikit-learn>=1.4,<2
+torch>=2.3,<3
+tqdm>=4.66,<5
+transformers>=4.42,<5
